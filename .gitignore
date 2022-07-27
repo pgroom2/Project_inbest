@@ -44,3 +44,5 @@ Thumbs.db
 package-lock.json
 
 Project_inbest/angular/dist
+angular/.angular/cache/13.3.9/angular-webpack/58a0a3c85acfe281e9acba25acdb19d900fdf061/0.pack
+angular/.angular/cache/13.3.9/angular-webpack/58a0a3c85acfe281e9acba25acdb19d900fdf061/index.pack
